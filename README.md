@@ -17,7 +17,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [坚持的道理](#%E5%9D%9A%E6%8C%81%E7%9A%84%E9%81%93%E7%90%86)
-- [](#)
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
