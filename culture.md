@@ -18,11 +18,11 @@
 DAMA: 亲,这种语言已经发明并使用了几百年了,
 这就是形式逻辑语言哪!?
 各种开发语言的语法形式定义的
-Backus–Naur Form - Wikipedia, the free encyclopedia 
+Backus–Naur Form - Wikipedia, the free encyclopedia
     https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_Form
 就是形式逻辑的应用形式之一
 
-逻辑 - 维基百科，自由的百科全书 
+逻辑 - 维基百科，自由的百科全书
     https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91#.E6.9C.AC.E8.B4.A8
 哗,,,原来这么多逻辑分类了,,,
 
@@ -69,5 +69,3 @@ DAMA: '''…我觉得同样把思想以文字传播, 汉语的流传时间更长
 
   * 英雄主义是解救社会病态的良方.
     * [如何让一个好人变坏](http://www.ted.com/talks/philip_zimbardo_on_the_psychology_of_evil)
-
-
